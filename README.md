@@ -1,1 +1,1 @@
-# mOSA - MacOS Organized Screenshots for Admins
+# ASA - Apple Screenshots for Admins
