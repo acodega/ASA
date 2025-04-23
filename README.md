@@ -1,6 +1,6 @@
 # ASA - Apple Screenshots for Admins
 
-This GitHub repo is a community-maintained collection of high-quality, version-specific macOS UI screenshots for Apple IT professionals.
+This GitHub repo is a community-maintained collection of high-quality, version-specific Apple platform UI screenshots for Apple IT professionals.
 
 The goal is to provide a consistent, reliable reference for:
 - Setup Assistant screens
