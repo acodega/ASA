@@ -14,7 +14,7 @@ This project exists to save time, reduce guesswork, and provide a dependable vis
 To Submit a Pull Request:
 1. Fork the repo and create a new branch.
 2. Add your screenshots to the appropriate folder. (To begin, we're open to folder suggestions)
-3. Screenshots should be as generic as possible. Standard resolution, light mode, default wallpaper, no unique menu bar apps or dock customization.
+3. Screenshots should be as generic as possible. Standard resolution, light mode, default wallpaper, no unique menu bar apps or dock customization. In general, we recommend full screen screenshots. This lets others crop as they need, rather then being limited by an isolated dialog box/window screenshot.
 5. If you're adding a new UI change, document it briefly in the PR description. Example: What OS version did the change you're screenshoting show up?
 
 
