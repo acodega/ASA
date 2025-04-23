@@ -1,6 +1,6 @@
 # ASA - Apple Screenshots for Admins
 
-This GitHub repo is a community-maintained collection of high-quality, version-specific macOS UI screenshots for Apple IT professionals.
+This GitHub repo is a community-maintained collection of high-quality, version-specific Apple platform UI screenshots for Apple IT professionals.
 
 The goal is to provide a consistent, reliable reference for:
 - Setup Assistant screens
@@ -15,7 +15,7 @@ To Submit a Pull Request:
 1. Fork the repo and create a new branch.
 2. Add your screenshots to the appropriate folder. (To begin, we're open to folder suggestions)
 3. Screenshots should be as generic as possible. Standard resolution, light mode, default wallpaper, no unique menu bar apps or dock customization. In general, we recommend full screen screenshots. This lets others crop as they need, rather then being limited by an isolated dialog box/window screenshot.
-5. If you're adding a new UI change, document it briefly in the PR description. Example: What OS version did the change you're screenshoting show up?
+5. If you're adding a new UI change, document it briefly in the PR description. Example: What's the new change you're screenshoting, and what OS version did the change you're screenshoting show up?
 
 
 ### Filename Breakdown
