@@ -35,8 +35,8 @@ To Submit a Pull Request:
 #### Examples
 
 ```mac_15.4_setup-assistant_passkeys.png
-mac_14.0_tcc__screen-recording_terminal.png
-mac_15.0_tcc__local-network_google-chrome.png
+mac_14.0_tcc_screen-recording_terminal.png
+mac_15.0_tcc_local-network_google-chrome.png
 mac_13.6_system-settings_login-items.png
-mac_15.0_mdm__remote-management.png
+mac_15.0_mdm_remote-management.png
 mac_15.4_system-settings_profiles.png
