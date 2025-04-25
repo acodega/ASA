@@ -12,7 +12,8 @@ This project exists to save time, reduce guesswork, and provide a dependable vis
 
 ## We welcome community contributions!
 Our folder structure:
-```platform_feature/
+```
+platform_feature/
 ├── en-US/
 ├── en-GB/
 │   ├── macos_version_name-of-screenshot.png
