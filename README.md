@@ -11,6 +11,23 @@ The goal is to provide a consistent, reliable reference for:
 This project exists to save time, reduce guesswork, and provide a dependable visual source of truth—so Apple admins don’t have to rely on random Google Image results or take screenshots from scratch.
 
 ## We welcome community contributions!
+Our folder structure:
+```lang/
+├── en-US
+├── en-GB/
+│   ├── MDM/
+│   │   ├── macos_version_name-of-screenshot.png
+│   │   └── ios-version_name-of-screenshot.png
+│   ├── Setup Assistant/
+│   │   ├── macos_version_name-of-screenshot.png
+│   │   └── ios-version_name-of-screenshot.png
+│   ├── UI/
+│   │   ├── macos_version_name-of-screenshot.png
+│   │   └── ios-version_name-of-screenshot.png
+│   └── (...)
+└── (...)
+```
+
 To Submit a Pull Request:
 1. Fork the repo and create a new branch.
 2. Add your screenshots to the appropriate folder. (To begin, we're open to folder suggestions)
