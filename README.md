@@ -12,18 +12,10 @@ This project exists to save time, reduce guesswork, and provide a dependable vis
 
 ## We welcome community contributions!
 Our folder structure:
-```lang/
-├── en-US
+```platform_feature/
+├── en-US/
 ├── en-GB/
-│   ├── MDM/
-│   │   ├── macos_version_name-of-screenshot.png
-│   │   └── ios-version_name-of-screenshot.png
-│   ├── Setup Assistant/
-│   │   ├── macos_version_name-of-screenshot.png
-│   │   └── ios-version_name-of-screenshot.png
-│   ├── UI/
-│   │   ├── macos_version_name-of-screenshot.png
-│   │   └── ios-version_name-of-screenshot.png
+│   ├── macos_version_name-of-screenshot.png
 │   └── (...)
 └── (...)
 ```
